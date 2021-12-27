@@ -9,7 +9,7 @@ dynamically configure redis cache ttl
 ### 1. Pom file
 ```
 <dependency>
-    <groupId>com.github</groupId>
+    <groupId>io.github.gravitymatrix</groupId>
     <artifactId>redis-cache-ttl-spring-boot-starter</artifactId>
     <version>1.0.0</version>
 </dependency>

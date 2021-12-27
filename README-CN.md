@@ -7,7 +7,7 @@ springboot动态配置redis缓存key过期时间
 ### 1. 在pom文件引入
 ```
 <dependency>
-    <groupId>com.github</groupId>
+    <groupId>io.github.gravitymatrix</groupId>
     <artifactId>redis-cache-ttl-spring-boot-starter</artifactId>
     <version>1.0.0</version>
 </dependency>
