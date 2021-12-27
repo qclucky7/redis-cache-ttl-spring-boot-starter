@@ -36,6 +36,11 @@
         </license>
     </licenses>
 
+    <scm>
+        <connection>scm:git@github.com:GravityMatrix/redis-cache-ttl-spring-boot-starter.git</connection>
+        <url>git@github.com:GravityMatrix/redis-cache-ttl-spring-boot-starter.git</url>
+    </scm>
+
     <dependencyManagement>
         <dependencies>
             <dependency>
